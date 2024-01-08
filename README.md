@@ -26,4 +26,11 @@ The analysis covers the following key aspects:
 
 
 ## Data Source
-The dataset used in this analysis is [Online Retail Data Set](https://www.kaggle.com/datasets/vijayuv/onlineretail). It consists of [describe the key characteristics of the dataset].
+The dataset used in this analysis is [Online Retail Data Set](https://www.kaggle.com/datasets/vijayuv/onlineretail).
+
+Collaborators: VIJAYKUMAR UMMADISETTY
+Title: Online Retail Data Set
+Date of publication: 2018
+Version: 1
+Publisher or repository: kaggle
+Persistent locator/identifier: https://www.kaggle.com/datasets/vijayuv/onlineretail/data
