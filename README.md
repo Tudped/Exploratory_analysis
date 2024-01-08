@@ -5,14 +5,14 @@
 ![Python Version](https://img.shields.io/badge/python-3.8-blue.svg)
 
 ## Overview
-This project conducts exploratory data analysis (EDA) on an Online Retail sale data of a UK-based online retailer. The primary goal is to gain insights into the underlying patterns, relationships, and trends within the data.
+This project conducts exploratory data analysis (EDA) on the Online Retail sale data of a UK-based online retailer. The primary goal is to gain insights into the underlying patterns, relationships, and trends within the data.
 
 # Project Scope
 The analysis covers the following key aspects:
 
 ### 1. User Demographics:
-   - Explore the distribution of users based on demographic factors such as age, gender, and location.
-   - Analyze how user demographics correlate with engagement metrics.
+   - Explore the distribution of data based on features.
+   - Analyze how features are correlated with each other.
 
 #### Questions about this data
    - Which country has the highest revenue?
@@ -32,5 +32,5 @@ Collaborators: VIJAYKUMAR UMMADISETTY
 Title: Online Retail Data Set
 Date of publication: 2018
 Version: 1
-Publisher or repository: kaggle
+Publisher or repository: Kaggle
 Persistent locator/identifier: https://www.kaggle.com/datasets/vijayuv/onlineretail/data
